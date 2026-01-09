@@ -4,7 +4,7 @@ void main() {
     john.displayInfo();
     john.displayHappyBirthday();
 
-    Admin nicolas = new Admin("Nicolas", 1964, 1, 7);
+    Admin nicolas = new Admin("Nicolas", 2006, 1, 9);
     nicolas.displayInfo();
 //    nicolas.displayInfo(true);
 //    nicolas.displayInfo(false);
